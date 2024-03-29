@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "name": "atm-zahra-irfan",
+  "version": "1.0.0",
+  "description": "ATM program using typescript, node js and inquirer package",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zahra Irfan",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
